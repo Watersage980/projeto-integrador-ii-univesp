@@ -3,15 +3,18 @@ Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next
 ## Para rodar a aplicação você deve ter instalado em sua máquina:
 
 - [Node.js](https://nodejs.org/pt/learn/getting-started/how-to-install-nodejs).
+- [GIT](https://git-scm.com/downloads)
 
 ## Iniciando a aplicação
 
 Primeiro, instale as dependências da aplicação 
-utilizando no terminal do VSCode:
+utilizando o terminal do VSCode:
 
     npm intall
 
 Em segundo, utilize um dos comandos abaixo no terminal para executar a aplicação em um servidor de desenvolvimento:
+
+Recomendo utilizar o     yarn dev
 
 ```bash
 npm run dev
