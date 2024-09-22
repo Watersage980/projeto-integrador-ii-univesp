@@ -14,7 +14,9 @@ utilizando o terminal do VSCode:
 
 Em segundo, utilize um dos comandos abaixo no terminal para executar a aplicação em um servidor de desenvolvimento:
 
-Recomendo utilizar o     yarn dev
+Recomendo utilizar o:
+
+    yarn dev
 
 ```bash
 npm run dev
