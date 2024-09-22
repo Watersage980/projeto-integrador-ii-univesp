@@ -1,33 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Para rodar a aplicação você deve ter instalado em sua máquina:
 
-First, run the development server:
+- [Node.js](https://nodejs.org/pt/learn/getting-started/how-to-install-nodejs).
+
+## Iniciando a aplicação
+
+Primeiro, instale as dependências da aplicação 
+utilizando no terminal do VSCode:
+
+    npm intall
+
+Em segundo, utilize um dos comandos abaixo no terminal para executar a aplicação em um servidor de desenvolvimento:
 
 ```bash
 npm run dev
-# or
+# ou
 yarn dev
-# or
+# ou
 pnpm dev
-# or
+# ou
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+No seu terminal, irá aparecer o endereço [http://localhost:3000](http://localhost:3000), precione Ctrl + click no link.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Você pode começar a editar a página modificando `app/page.tsx`. A página é atualizada automaticamente conforme você edita o arquivo.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Este projeto usa [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) para otimizar e carregar automaticamente o Inter, uma fonte personalizada do Google.
 
-## Learn More
+## Saiba mais
 
-To learn more about Next.js, take a look at the following resources:
+Para saber mais sobre Next.js, dê uma olhada nos seguintes recursos:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js Documentation](https://nextjs.org/docs) - aprenda sobre os recursos e API do Next.js.
+- [Aprenda Next.js](https://nextjs.org/learn) - um tutorial interativo do Next.js.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Você pode conferir [o repositório Next.js GitHub](https://github.com/vercel/next.js/) - seus comentários e contribuições são bem-vindos!
 
 ## Deploy on Vercel
 
