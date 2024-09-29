@@ -5,7 +5,13 @@ Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next
 - [Node.js](https://nodejs.org/pt/learn/getting-started/how-to-install-nodejs).
 - [GIT](https://git-scm.com/downloads)
 
-## Iniciando a aplicação
+## Clonando o projeto para repositório local:
+
+Selecione a pasta no computador para alocar o repositório local e então clone o repositório remoto utilizando:
+
+    git clone https://github.com/LeandroJGO/projeto-integrador-ii-univesp.git
+
+## Instale as depêndencias do projeto:
 
 Primeiro, instale as dependências da aplicação 
 utilizando o terminal do VSCode:
